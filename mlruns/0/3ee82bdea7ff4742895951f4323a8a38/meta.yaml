@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ee82bdea7ff4742895951f4323a8a38/artifacts
+end_time: 1734027248032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ee82bdea7ff4742895951f4323a8a38
+run_name: respected-shrimp-869
+run_uuid: 3ee82bdea7ff4742895951f4323a8a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734027243444
+status: 3
+tags: []
+user_id: heeya

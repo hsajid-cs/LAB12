@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d4deb3232cf41259cb36f36a04c4799/artifacts
+end_time: 1734027115477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d4deb3232cf41259cb36f36a04c4799
+run_name: wistful-hog-928
+run_uuid: 4d4deb3232cf41259cb36f36a04c4799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734027107975
+status: 3
+tags: []
+user_id: heeya

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b26fbddcf03406ba2305831a92d247a/artifacts
+end_time: 1734026971891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b26fbddcf03406ba2305831a92d247a
+run_name: bemused-rook-953
+run_uuid: 3b26fbddcf03406ba2305831a92d247a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734026962886
+status: 4
+tags: []
+user_id: heeya
