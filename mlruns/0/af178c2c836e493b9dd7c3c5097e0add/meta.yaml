@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af178c2c836e493b9dd7c3c5097e0add/artifacts
+end_time: 1734071981715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af178c2c836e493b9dd7c3c5097e0add
+run_name: XGB Tuned Hyperparameters
+run_uuid: af178c2c836e493b9dd7c3c5097e0add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071966740
+status: 3
+tags: []
+user_id: heeya

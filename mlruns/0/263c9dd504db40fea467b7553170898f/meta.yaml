@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/263c9dd504db40fea467b7553170898f/artifacts
+deleted_time: 1734030589866
+end_time: 1734030414681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 263c9dd504db40fea467b7553170898f
+run_name: Run_1_XGBoost_Default
+run_uuid: 263c9dd504db40fea467b7553170898f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734030404521
+status: 3
+tags: []
+user_id: heeya

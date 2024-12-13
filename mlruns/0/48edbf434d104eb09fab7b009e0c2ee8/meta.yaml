@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/48edbf434d104eb09fab7b009e0c2ee8/artifacts
+deleted_time: 1734071613393
+end_time: 1734070431123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 48edbf434d104eb09fab7b009e0c2ee8
+run_name: XGB Default Hyperparameters
+run_uuid: 48edbf434d104eb09fab7b009e0c2ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070419720
+status: 3
+tags: []
+user_id: heeya

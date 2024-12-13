@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d09c313fbdf84c938cc415adb5e4c163/artifacts
+end_time: 1734071955802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d09c313fbdf84c938cc415adb5e4c163
+run_name: RFC Tuned Hyperparameters
+run_uuid: d09c313fbdf84c938cc415adb5e4c163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071941897
+status: 3
+tags: []
+user_id: heeya

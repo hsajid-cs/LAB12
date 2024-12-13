@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/907a2c78f3494c3782af8bc691db8e70/artifacts
+deleted_time: 1734071613392
+end_time: 1734071038108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 907a2c78f3494c3782af8bc691db8e70
+run_name: sincere-crab-600
+run_uuid: 907a2c78f3494c3782af8bc691db8e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071031809
+status: 3
+tags: []
+user_id: heeya

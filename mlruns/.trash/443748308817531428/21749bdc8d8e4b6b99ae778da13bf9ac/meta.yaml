@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/443748308817531428/21749bdc8d8e4b6b99ae778da13bf9ac/artifacts
+deleted_time: 1734072180363
+end_time: 1734070487798
+entry_point_name: ''
+experiment_id: '443748308817531428'
+lifecycle_stage: deleted
+run_id: 21749bdc8d8e4b6b99ae778da13bf9ac
+run_name: chill-grouse-637
+run_uuid: 21749bdc8d8e4b6b99ae778da13bf9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070482734
+status: 3
+tags: []
+user_id: heeya

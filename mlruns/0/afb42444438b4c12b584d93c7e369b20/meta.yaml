@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/afb42444438b4c12b584d93c7e369b20/artifacts
+deleted_time: 1734071613358
+end_time: 1734031014762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: afb42444438b4c12b584d93c7e369b20
+run_name: bright-auk-74
+run_uuid: afb42444438b4c12b584d93c7e369b20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734031007981
+status: 3
+tags: []
+user_id: heeya

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c860768a5a84798b8ea5b0b62050df5/artifacts
+end_time: 1734071928957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c860768a5a84798b8ea5b0b62050df5
+run_name: sassy-dolphin-571
+run_uuid: 0c860768a5a84798b8ea5b0b62050df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071924987
+status: 3
+tags: []
+user_id: heeya

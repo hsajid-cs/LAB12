@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e30d356e48394291a6a63b4308bebe60/artifacts
+deleted_time: 1734071613409
+end_time: 1734070372979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e30d356e48394291a6a63b4308bebe60
+run_name: loud-ram-945
+run_uuid: e30d356e48394291a6a63b4308bebe60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070366285
+status: 3
+tags: []
+user_id: heeya

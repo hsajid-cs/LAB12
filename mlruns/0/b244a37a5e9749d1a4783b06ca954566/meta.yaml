@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b244a37a5e9749d1a4783b06ca954566/artifacts
+deleted_time: 1734071613359
+end_time: 1734031059324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b244a37a5e9749d1a4783b06ca954566
+run_name: nervous-bug-596
+run_uuid: b244a37a5e9749d1a4783b06ca954566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734031059233
+status: 4
+tags: []
+user_id: heeya

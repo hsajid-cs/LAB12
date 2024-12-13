@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cf0c68b82cc2435aa874a3df71d252b6/artifacts
+deleted_time: 1734071613394
+end_time: 1734071031685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cf0c68b82cc2435aa874a3df71d252b6
+run_name: monumental-whale-475
+run_uuid: cf0c68b82cc2435aa874a3df71d252b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071014424
+status: 3
+tags: []
+user_id: heeya

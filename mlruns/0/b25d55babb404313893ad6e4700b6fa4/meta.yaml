@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b25d55babb404313893ad6e4700b6fa4/artifacts
+deleted_time: 1734071613408
+end_time: 1734070380112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b25d55babb404313893ad6e4700b6fa4
+run_name: serious-penguin-746
+run_uuid: b25d55babb404313893ad6e4700b6fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070375024
+status: 3
+tags: []
+user_id: heeya

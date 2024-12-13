@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/532fdb2d054c4b85859208592467f55a/artifacts
+deleted_time: 1734071613406
+end_time: 1734070406181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 532fdb2d054c4b85859208592467f55a
+run_name: RFC Default Hyperparameters
+run_uuid: 532fdb2d054c4b85859208592467f55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070394825
+status: 3
+tags: []
+user_id: heeya

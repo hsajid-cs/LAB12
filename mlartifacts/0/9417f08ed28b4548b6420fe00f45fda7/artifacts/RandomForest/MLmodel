@@ -1,0 +1,34 @@
+artifact_path: RandomForest
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.19.0
+model_size_bytes: 811909
+model_uuid: 67e34dc85e24441ab8980be69dcca7dd
+run_id: 9417f08ed28b4548b6420fe00f45fda7
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "feature_0", "required": true}, {"type": "double",
+    "name": "feature_1", "required": true}, {"type": "double", "name": "feature_2",
+    "required": true}, {"type": "double", "name": "feature_3", "required": true},
+    {"type": "double", "name": "feature_4", "required": true}, {"type": "double",
+    "name": "feature_5", "required": true}, {"type": "double", "name": "feature_6",
+    "required": true}]'
+  outputs: '[{"type": "integer", "required": true}]'
+  params: null
+utc_time_created: '2024-12-12 18:48:28.841098'

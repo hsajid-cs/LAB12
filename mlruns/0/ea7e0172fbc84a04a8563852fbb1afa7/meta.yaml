@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ea7e0172fbc84a04a8563852fbb1afa7/artifacts
+deleted_time: 1734071613361
+end_time: 1734031077032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea7e0172fbc84a04a8563852fbb1afa7
+run_name: painted-tern-225
+run_uuid: ea7e0172fbc84a04a8563852fbb1afa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734031071922
+status: 3
+tags: []
+user_id: heeya

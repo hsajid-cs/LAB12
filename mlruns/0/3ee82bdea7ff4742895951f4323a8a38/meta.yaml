@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/3ee82bdea7ff4742895951f4323a8a38/artifacts
+deleted_time: 1734071613358
 end_time: 1734027248032
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ee82bdea7ff4742895951f4323a8a38
 run_name: respected-shrimp-869
 run_uuid: 3ee82bdea7ff4742895951f4323a8a38

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/831ab615d633462dbb5d70390dbd9446/artifacts
+deleted_time: 1734071613420
+end_time: 1734070251106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 831ab615d633462dbb5d70390dbd9446
+run_name: traveling-jay-622
+run_uuid: 831ab615d633462dbb5d70390dbd9446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070229273
+status: 4
+tags: []
+user_id: heeya

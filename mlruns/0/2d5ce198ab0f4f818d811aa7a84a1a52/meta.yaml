@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2d5ce198ab0f4f818d811aa7a84a1a52/artifacts
+deleted_time: 1734030589882
+end_time: 1734030023207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2d5ce198ab0f4f818d811aa7a84a1a52
+run_name: Rund
+run_uuid: 2d5ce198ab0f4f818d811aa7a84a1a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734030017472
+status: 3
+tags: []
+user_id: heeya

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/71697b257854461c85be74c66d5ecc3b/artifacts
+end_time: 1734071924906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71697b257854461c85be74c66d5ecc3b
+run_name: marvelous-ant-542
+run_uuid: 71697b257854461c85be74c66d5ecc3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071917427
+status: 3
+tags: []
+user_id: heeya
